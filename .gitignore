@@ -1,1 +1,6 @@
-*.exe
+### Ignora tudo
+*
+### Não ignora tudo que tiver extensão
+!*.*
+### Não ignore diretórios
+!*/
